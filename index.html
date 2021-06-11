@@ -7,15 +7,36 @@
     <title>Flixster</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-<div id="header">
-    <img src="" alt="">
-    <h1>Flixster</h1>
+    <div id="header">
+        <img src="https://www.flixster.com/logo/logo_Mobile.svg" width="60px"alt="flixster logo">
+        <h1>Flixster</h1>
 
-</div>
+    </div>
+    <form id="search-form">
+        <input id="search-input" type="text" name="movie" placeholder="Search For Movie" />
+        <button>Search</button>
+        <!-- type="submit" id="search-btn" -->
+    </form>
 
+    <form id="cancel">
+        <button type="click" id="clearSearch">Clear</button>
+    </form>
     
-    
+    <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+<div id="movie-area"></div>
+
+<form id="load-area">
+    <button >See More</button>
+    <!-- id="show-more-btn" type="button" -->
+</form>
+
+<!-- <script src="app2.js"></script> -->
+<script src="app.js"></script>
+
+
 </body>
 </html>
