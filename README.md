@@ -1,5 +1,4 @@
 # flixster_app
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
 
 ## Week 1 Assignment: Flixster
 
@@ -30,9 +29,8 @@ Deployed Application (optional): [Flixster Deployed Site](https://oehimen1.githu
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`<iframe class="embeddedObject shadow resizable" name="embedded_content" scrolling="no" frameborder="0" type="text/html" 
+`<!-- copy and paste. Modify height and width if desired. -->
+<iframe class="embeddedObject shadow resizable" name="embedded_content" scrolling="no" frameborder="0" type="text/html" 
         style="overflow:hidden;" src="https://www.screencast.com/users/ObehiEhimen/folders/Capture/media/854a4d53-e7e1-463c-884c-01174683e025/embed" height="658" width="1366" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 `
 

@@ -7,11 +7,10 @@ const form = document.querySelector("#search-form");
 
 //Elements
 const buttonElmnt = document.querySelector("#show-more-btn");
-//const searchForm = document.getElementById('search-form');
 const inputElmnt = document.querySelector("#search-input");
 const movieArea = document.querySelector("#movie-area");
 const cancel = document.querySelector("cancel");
-//cancel.addEventListener("submit",cancelSearch);
+cancel.addEventListener("submit",cancelSearch);
 
 const ldMoreBtn = document.querySelector("#load-area");
 ldMoreBtn.addEventListener("submit",morePlease);
@@ -23,26 +22,6 @@ var currentSearchTerm="";
 getPlayingMovies();
 form.addEventListener("submit", handleSubmit);
 
-
-
-
-//Will help generate url especially using different paths for the "Now-Playing" movies and the "Searched movies"
-// function generateUrl(path){
-
-//     const apiUrl = `https://api.themoviedb.org/3${path}?api_key=698a26922f60d1e46654559c38d05277&include_adult=false&page=${currentApiPage}`;
-//     return apiUrl;
-// }
-
-// getPlayingMovies(url);
-// //Display Now Playing Movies in the HomePage
-// async function getPlayingMovies(url1){
-    
-//     // const url = `https://api.themoviedb.org/3/movie/now_playing?api_key=${apiKey}&language=en-US&page=${currentApiPage}`;
-//     const response = await fetch(url1);
-//     const responseData = await response.json();
-//     const movie=responseData.results;
-//     displayResults(movie);
-// }
 
 
 
