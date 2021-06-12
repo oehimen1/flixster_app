@@ -10,7 +10,7 @@ const buttonElmnt = document.querySelector("#show-more-btn");
 const inputElmnt = document.querySelector("#search-input");
 const movieArea = document.querySelector("#movie-area");
 const cancel = document.querySelector("cancel");
-cancel.addEventListener("submit",cancelSearch);
+//cancel.addEventListener("submit",cancelSearch);
 
 const ldMoreBtn = document.querySelector("#load-area");
 ldMoreBtn.addEventListener("submit",morePlease);
