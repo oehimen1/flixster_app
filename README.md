@@ -32,7 +32,7 @@ Deployed Application (optional): [Flixster Deployed Site](https://oehimen1.githu
 <!-- copy and paste. Modify height and width if desired. -->
 <!-- <img src="http://g.recordit.co/6S67z0DYNf.gif" alt="Project-Gif" width=900 height=500/>
  -->
-[Walkthrough](http://g.recordit.co/6S67z0DYNf.gif)
+![Walkthrough](http://g.recordit.co/6S67z0DYNf.gif)
 
 
 ### Reflection
