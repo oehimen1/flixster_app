@@ -30,14 +30,9 @@ Deployed Application (optional): [Flixster Deployed Site](https://oehimen1.githu
 ### Walkthrough Video
 
 <!-- copy and paste. Modify height and width if desired. -->
-<iframe class="embeddedObject shadow resizable" name="embedded_content" scrolling="no" 
-        frameborder="0" type="text/html" style="overflow:hidden;" 
-        src="http://g.recordit.co/6S67z0DYNf.gif" height="658" width="1366" 
-        webkitallowfullscreen mozallowfullscreen allowfullscreen>
-</iframe>
 <img src="http://g.recordit.co/6S67z0DYNf.gif" alt="Project-Gif" width=900 height=500/>
 
-
+![Walkthrough](http://g.recordit.co/6S67z0DYNf.gif)
 
 
 ### Reflection
