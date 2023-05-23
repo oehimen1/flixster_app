@@ -30,9 +30,9 @@ Deployed Application (optional): [Flixster Deployed Site](https://oehimen1.githu
 ### Walkthrough Video
 
 <!-- copy and paste. Modify height and width if desired. -->
-<img src= "http://g.recordit.co/V6fTNVB4dN.gif" alt="Gif" width=500 height=500 />
-<!-- ![Walkthrough](flixsterWalkthrough.gif)
- -->
+<img src= "V6fTNVB4dN.gif" alt="Gif" width=500 height=500 />
+![Walkthrough](V6fTNVB4dN.gif)
+
 
 
 ### Reflection
